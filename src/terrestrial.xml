@@ -2512,6 +2512,13 @@
 		<transponder centre_frequency="650000000" bandwidth="0" constellation="2" system="1" plp_id="1"/>
 		<transponder centre_frequency="650000000" bandwidth="0" constellation="2" system="1" plp_id="2"/>
 	</terrestrial>
+		<terrestrial name="Russia, Khabarovsk: DVB-T/T2" flags="5" countrycode="RUS">
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="2" system="1" plp_id="0"/><!-- Ch 30 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="2" system="1" plp_id="1"/>
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="2" system="1" plp_id="2"/>
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="2" system="1" plp_id="0"/><!-- Ch 38 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="2" system="1" plp_id="0"/><!-- Ch 44 -->
+	</terrestrial>
 	<terrestrial name="Russia, Elets: DVB-T/T2" flags="5" countrycode="RUS">
 		<transponder centre_frequency="762000000" bandwidth="0" constellation="2" system="1" plp_id="0"/>
 		<transponder centre_frequency="762000000" bandwidth="0" constellation="2" system="1" plp_id="1"/>
